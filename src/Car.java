@@ -20,14 +20,8 @@ public class Car {
         this.color = a.color;
         this.price = a.price;
     }
+}
 
-        void drive() {
-            System.out.println("You drive the car");
-        }
-        void brake(){
-          System.out.println("You stepped on the break");
-        }
-
-        }
+        
 
 
